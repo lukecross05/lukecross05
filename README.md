@@ -13,7 +13,7 @@ Hi, I’m Luke!
 
 Full-stack JavaScript developer building **scalable, production-ready web applications**.  
 
-- ⚛️ Frontend: React (component architecture, performance, SSR), Next.js  
+-	⚛️ Frontend: React & Next.js — component architecture, SSR, performance  
 - ⚙️ Backend: Node.js, Express, REST APIs, event-driven systems, role-based access control, OAuth/JWT  
 - 🧰 Focus: clean code, maintainability, performance  
 - 🚀 Currently working towards mid-level by improving system design & scalability  
