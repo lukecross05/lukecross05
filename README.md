@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Luke, a Full-stack JavaScript developer building scalable, production-ready web applications. I work primarily with React on the front end and Node.js on the back end, with practical experience designing REST APIs, event-driven systems, and role-based access control.
+
+I focus on clean component structure, performance, and writing maintainable code. I’m currently working towards mid-level by improving my system design and scalability skills.
+
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
