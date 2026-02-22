@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**lukecross05/lukecross05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
 
-Here are some ideas to get you started:
+**Frontend**
+- React
+- Next.js
+- Tailwind CSS
+- React Bootstrap
+- ShadCN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend**
+- Node.js
+- Express
+- REST APIs
+- Kafka (event-driven systems)
+- JWT / OAuth / RBAC
+
+**Databases**
+- MongoDB (advanced aggregations)
+- PostgreSQL
+- Prisma / Drizzle
+
+**DevOps**
+- Docker
+- Docker Compose
+- Bitbucket Pipelines
+- Production deployments & rollbacks
+
+**Testing & Tools**
+- Jest
+- Git
