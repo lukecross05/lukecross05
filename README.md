@@ -1,8 +1,25 @@
-## Hi there 👋
+## 👋 About Me
 
-I'm Luke, a Full-stack JavaScript developer building scalable, production-ready web applications. I work primarily with React on the front end and Node.js on the back end, with practical experience designing REST APIs, event-driven systems, and role-based access control.
+Hi, I’m [Your Name]!  
 
-I focus on clean component structure, performance, and writing maintainable code. I’m currently working towards mid-level by improving my system design and scalability skills.
+🎓 Software Engineering student at the University of Liverpool  
+💼 Currently on a year in industry at Wadaro  
+🌲 Enjoy hiking & camping  
+🚗 Enthusiastic about cars & football  
+☕ Coffee lover & occasional gamer  
+
+---
+
+## 💻 About My Work
+
+Full-stack JavaScript developer building **scalable, production-ready web applications**.  
+
+- ⚛️ Frontend: React (component architecture, performance, SSR), Next.js  
+- ⚙️ Backend: Node.js, Express, REST APIs, event-driven systems, RBAC, OAuth/JWT  
+- 🧰 Focus: clean code, maintainability, performance  
+- 🚀 Currently working towards mid-level: improving system design & scalability  
+
+---
 
 ## 🛠 Tech Stack
 
@@ -15,8 +32,6 @@ I focus on clean component structure, performance, and writing maintainable code
 ![React Bootstrap](https://img.shields.io/badge/ReactBootstrap-000?logo=reactbootstrap)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000)
 
----
-
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000?logo=express)
@@ -27,23 +42,17 @@ I focus on clean component structure, performance, and writing maintainable code
 ![RBAC](https://img.shields.io/badge/RBAC-000)
 ![Zod](https://img.shields.io/badge/Zod-000)
 
----
-
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
 ![Prisma](https://img.shields.io/badge/Prisma-000?logo=prisma)
 ![Drizzle](https://img.shields.io/badge/Drizzle-000)
 
----
-
 ### ☁️ DevOps
 ![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
 ![Docker Compose](https://img.shields.io/badge/Docker--Compose-000?logo=docker)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-000?logo=bitbucket)
 ![CI/CD](https://img.shields.io/badge/CI/CD-000)
-
----
 
 ### 🧪 Testing & Tools
 ![Jest](https://img.shields.io/badge/Jest-000?logo=jest)
