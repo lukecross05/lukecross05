@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi, I’m [Your Name]!  
+Hi, I’m Luke!  
 
 🎓 Software Engineering student at the University of Liverpool  
 💼 Currently on a year in industry at Wadaro  
@@ -8,18 +8,15 @@ Hi, I’m [Your Name]!
 🚗 Enthusiastic about cars & football  
 ☕ Coffee lover & occasional gamer  
 
----
 
 ## 💻 About My Work
 
 Full-stack JavaScript developer building **scalable, production-ready web applications**.  
 
 - ⚛️ Frontend: React (component architecture, performance, SSR), Next.js  
-- ⚙️ Backend: Node.js, Express, REST APIs, event-driven systems, RBAC, OAuth/JWT  
+- ⚙️ Backend: Node.js, Express, REST APIs, event-driven systems, role-based access control, OAuth/JWT  
 - 🧰 Focus: clean code, maintainability, performance  
-- 🚀 Currently working towards mid-level: improving system design & scalability  
-
----
+- 🚀 Currently working towards mid-level by improving system design & scalability  
 
 ## 🛠 Tech Stack
 
