@@ -6,7 +6,6 @@ Hi, I’m Luke!
 💼 Currently on a year in industry at Wadaro  
 🌲 Enjoy hiking & camping  
 🚗 Enthusiastic about cars & football  
-☕ Coffee lover & occasional gamer  
 
 
 ## 💻 About My Work
@@ -50,6 +49,7 @@ Full-stack JavaScript developer building **scalable, production-ready web applic
 ![Docker Compose](https://img.shields.io/badge/Docker--Compose-000?logo=docker)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-000?logo=bitbucket)
 ![CI/CD](https://img.shields.io/badge/CI/CD-000)
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
 
 ### 🧪 Testing & Tools
 ![Jest](https://img.shields.io/badge/Jest-000?logo=jest)
